@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Link: 
-
+https://mahp-protfolio-react.netlify.app/
 
 ## Technologies Used:
 * React/Vite
@@ -13,6 +13,7 @@
 * Framer Motion
 * Moment Js
 * Email Js
+* Template credit "ras1k"
 * React Github Calender
 * React Icons
 * React Parallax Tilt
@@ -22,4 +23,3 @@
 * React TsParticles
 * React Device Detect
   
-Template credit goes to "https://github.com/ras1k"
