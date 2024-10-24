@@ -54,7 +54,7 @@ const Navbar = () => {
                             </li>
                         ))
                     }
-                    <a href="https://drive.google.com/file/d/1AxwpKb4ULvulSW1yyYvQA3pFsZ9iHEAl/view?usp=sharing" target='_blank' rel='noreferrer' className='text-secondary hover:text-[#915eff] transition ease-out hover:scale-125 text-[18px] font-medium cursor-pointer flex items-center'>Resume &nbsp; <LuExternalLink /></a>
+                    <a href="https://drive.google.com/file/d/1YO4jqmfg2ZGJrSH7yCH_GnTOJWdzwnBu/view?usp=sharing" target='_blank' rel='noreferrer' className='text-secondary hover:text-[#915eff] transition ease-out hover:scale-125 text-[18px] font-medium cursor-pointer flex items-center'>Resume &nbsp; <LuExternalLink /></a>
                 </ul>
 
                 <div className='sm:hidden flex flex-1 justify-end items-center'>
